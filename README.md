@@ -32,6 +32,7 @@ To get started with this project, please refer to the `docs` directory for detai
 
 Contributions to this project are welcome. Please read the contribution guidelines in the `CONTRIBUTING.md` file for more information.
 
+
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
